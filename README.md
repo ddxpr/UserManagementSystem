@@ -1,2 +1,2 @@
 # UserManagementSystem
-User Management System using Vue.js, Node.js, and MySQL
+User Management System to consume UserManagement API using Vue.js
